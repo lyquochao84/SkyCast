@@ -42,7 +42,7 @@ Follow these steps to clone the project from GitHub and open it with Android Stu
     - Choose your device and Click `Run` from the menu
 
 ## Contributors
-- Hao Ly
+- Kevin Ly
 - Tristan Do
 
 ## Screenshots
